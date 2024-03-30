@@ -1,0 +1,13 @@
+.header .side-panel{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+
+
+
+
+p-4 flex justify-between items-center
